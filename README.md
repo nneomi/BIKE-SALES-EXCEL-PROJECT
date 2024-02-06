@@ -17,6 +17,7 @@ Business Questions:
    - What specific product features or marketing strategies can be implemented to attract and retain customers with longer commutes?
    - Are there opportunities to create specialized promotions or partnerships targeting individuals with shorter commutes to boost their spending on bicycles?.
 
+Key insights: 
 *Average Income per Purchase*
 
 - **Marital Status:**
