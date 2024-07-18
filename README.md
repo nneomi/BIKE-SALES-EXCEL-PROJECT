@@ -1,4 +1,4 @@
-**Sales Dashboard Insights: Bicycle Purchases in the United States**
+**Sales Dashboard Insights: Bicycle Purchases**
 
 Business Questions: 
 1. **Marital Status:**
